@@ -2,6 +2,9 @@
 
 ![imagem](https://mindthegraph.com/blog/wp-content/uploads/2019/03/image-aves-2022.png)
 
+🔗 Repositório principal:
+https://github.com/seu-usuario/mba-bird-conservation-data-platform
+
 Os objetivos deste projeto são:
 - Uso do dbt
 - Armazenar de forma segura as consultas utilizadas na criação de dws e data marts.
